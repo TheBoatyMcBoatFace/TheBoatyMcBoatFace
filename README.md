@@ -9,6 +9,8 @@ Come back.... soonish?.... to see the progress.
 
 List of repos I'm going to possibly fork to figure this out. 
 
+[This guy has good chess](https://github.com/timburgan)
+
 [Mokka Apps](https://github.com/mokkapps/mokkapps)
 
 [Random Memer](https://github.com/techytushar/random-memer)
