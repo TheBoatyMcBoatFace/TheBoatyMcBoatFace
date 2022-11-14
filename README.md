@@ -1,4 +1,4 @@
-# TheBoatyMcBoatFace
+# Bentley Hensel
 Profiley McProfileface
 
 Just decided to make my github profile a work of art
