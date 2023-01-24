@@ -1,26 +1,36 @@
-# Bentley Hensel
-Profiley McProfileface
+# 💫 About Me:
 
-Just decided to make my github profile a work of art
+About Me
 
-I'm a big fan of Github stars & lists, but I haven't found any good profile copypasta to show that. Soooo.... I am going to make it. 
+## 🌐 Socials:
 
-Come back.... soonish... to see the progress.
+- 📫 How to reach me: github@bentleyhensel.com
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bfhensel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bentleyhensel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bfhensel)
 
-List of repos I'm going to possibly fork to figure this out. 
+# 📊 GitHub Stats:
 
-- [This guy has good chess](https://github.com/timburgan)
+![](https://github-readme-stats.vercel.app/api?username=theboatymcboatface&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theboatymcboatface&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theboatymcboatface&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- [Mokka Apps](https://github.com/mokkapps/mokkapps)
+## Repos I'm Working On
 
-- [Random Memer](https://github.com/techytushar/random-memer)
+- [Public Sector A11y](https://github.com/CivicActions/public-sector-a11y)
+  Government Accessibility Website Scans
+- [RapidATO](https://github.com/CivicActions/rapidato)
+  Making government tech compliance easy
+- [CA Product](https://github.com/CivicActions/product)
+  CivicActions Product Department templates and SOPs
 
-- [Shoelds.io](https://shields.io/)
+  **Personal Projects**
 
-- [Badges & Parrots](https://github.com/ashleymavericks/ashleymavericks)
+- [Sailputer](https://github.com/TheBoatyMcBoatFace/sailputer)
+  Sailboat computer
 
-- [Copypasta & Live Stats](https://github.com/cxyfreedom/cxyfreedom)
+- [BentleyHensel.com](https://github.com/TheBoatyMcBoatFace/bentleyhensel.com)
+  Personal website built on Strapi, transitioning from Ghost
+- [Checky the Checker](https://github.com/TheBoatyMcBoatFace/checky-the-checker)
+  Rust magic maker for checking email validation, sender score, and dns dark secrets
 
-- [Icons @ Bottom](https://github.com/andyruwruw/andyruwruw)
-
-- [Awesome List](https://github.com/abhisheknaiidu/awesome-github-profile-readme#game-mode-)
+- [Sandbox](https://github.com/TheBoatyMcBoatFace/Sandbox)
+  Just a place to test and try things
