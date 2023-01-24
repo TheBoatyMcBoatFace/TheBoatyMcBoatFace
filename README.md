@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-About Me
+Technical product manager who likes building things
 
 ## 🌐 Socials:
 
