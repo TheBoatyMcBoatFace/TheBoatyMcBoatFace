@@ -37,12 +37,8 @@
 ***
 <p align="left">
   <img src="metrics.plugin.isocalendar.fullyear.svg" width="auto" />
-  <p align="right">
     <img src="metrics.plugin.notable.svg" width="auto" />
     <img src="metrics.plugin.habits.facts.svg" width="auto">
-  </p>
-</p>
-<p align="center">
   <img src="metrics.plugin.licenses.ratio.svg" width="auto">
   <img src="metrics.plugin.lines.svg" width="auto">
   <img src="metrics.plugin.stars.svg" width="auto">
