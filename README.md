@@ -37,32 +37,16 @@
 ***
 <p align="center">
   <img src="metrics.plugin.isocalendar.fullyear.svg" width="50%" />
+  <p>
     <img src="metrics.plugin.notable.svg" width="45%" /><br  />
     <img src="metrics.plugin.habits.facts.svg" width="45%">
-
+  </p>
 </p>
-
-
-
-
-<div align="center">
-
+<p align="center">
   <img src="metrics.plugin.licenses.ratio.svg" width="auto">
-</div>
-
-<div align="center">
   <img src="metrics.plugin.lines.svg" width="auto">
-  <img src="metrics.plugin.topics.icons.svg" width="auto">
-</div>
-
-<div align="center">
-  <img src="metrics.plugin.starlists.svg" width="auto">
   <img src="metrics.plugin.stars.svg" width="auto">
-</div>
-
-
-
-
+</p>
 
 
 
