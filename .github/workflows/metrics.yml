@@ -1,0 +1,161 @@
+name: Metrics
+on:
+
+  schedule: [{cron: "0 0 * * *"}]
+
+  workflow_dispatch:
+
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: America/New_York
+
+# https://github.com/theboatymcboatface/metrics/blob/master/source/plugins/topics/README.md
+        name: Icons
+      - uses: theboatymcboatface/metrics@latest
+        with:
+            filename: metrics.plugin.topics.icons.svg
+            token: NOT_NEEDED
+            base: ""
+            plugin_topics: yes
+            plugin_topics_limit: 0
+            plugin_topics_mode: icons
+
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/isocalendar/README.md
+        name: Full-year calendar
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/lines/README.md
+        name: Compact display in base plugin
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes
+
+# Starred Topics
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/topics/README.md
+        name: Icons
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+# Recently Starred Repositories
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/stars/README.md
+        name: Recently starred
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+# License Info
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/licenses/README.md
+        name: Licenses with open-source ratio graphs
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.licenses.ratio.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_licenses: yes
+          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+          plugin_licenses_legal: no
+          plugin_licenses_ratio: yes
+
+# Coding Habits
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/habits/README.md
+        name: Mildly interesting facts
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: America/New_York
+
+
+# Contributions by Category
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/contributors/README.md#plugin_contributors_categories
+        name: Contributors by categories
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.contributors.categories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_contributors: yes
+          plugin_contributors_sections: categories
+          plugin_contributors_categories: |
+            {
+              "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
+              "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
+              "💻 Code (other)":["source/**", "Dockerfile"]
+            }
+
+# Followup
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/followup/README.md
+
+# Start Lists
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/starlists/README.md
+        name: Featured star list
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.starlists.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_only: TC39
+
+# Notable Contributions
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/notable/README.md
+        name: Contributions
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+
+
+# Recent Posts
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/posts/README.md
+        name: Recent posts with descriptions and cover images
+      - uses: theboatymcboatface/metrics@latest
+        with:
+          filename: metrics.plugin.posts.full.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_limit: 2
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+
+

@@ -1,6 +1,13 @@
+<div align="center">
+  <a href="https://github.com/j12y"><img src="./assets/GoldenTroutWilderness.png"/></a>
+</div>
+
+
 # 💫 About Me:
 
-Technical product manager who likes building things
+Technical product cosplaying as an engineer
+
+[![spotify-github-profile](https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌐 Socials:
 
@@ -15,22 +22,3 @@ Technical product manager who likes building things
 
 ## Repos I'm Working On
 
-- [Public Sector A11y](https://github.com/CivicActions/public-sector-a11y)
-  Government Accessibility Website Scans
-- [RapidATO](https://github.com/CivicActions/rapidato)
-  Making government tech compliance easy
-- [CA Product](https://github.com/CivicActions/product)
-  CivicActions Product Department templates and SOPs
-
-  **Personal Projects**
-
-- [Sailputer](https://github.com/TheBoatyMcBoatFace/sailputer)
-  Sailboat computer
-
-- [BentleyHensel.com](https://github.com/TheBoatyMcBoatFace/bentleyhensel.com)
-  Personal website built on Strapi, transitioning from Ghost
-- [Checky the Checker](https://github.com/TheBoatyMcBoatFace/checky-the-checker)
-  Rust magic maker for checking email validation, sender score, and dns dark secrets
-
-- [Sandbox](https://github.com/TheBoatyMcBoatFace/Sandbox)
-  Just a place to test and try things
