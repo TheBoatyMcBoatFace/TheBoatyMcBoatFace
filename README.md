@@ -38,17 +38,22 @@
 <p align="center">
   <img src="metrics.plugin.isocalendar.fullyear.svg" width="45%" />
   <img src="metrics.plugin.notable.svg" width="45%" />
+  <img src="metrics.plugin.habits.facts.svg" width="45%">
 </p>
 
+<p align="center">
+  <img src="metrics.plugin.isocalendar.fullyear.svg" width="45%" style="float: left;" />
+  <div style="width: 45%; float: right;">
+    <img src="metrics.plugin.notable.svg" width="100%" />
+    <img src="metrics.plugin.habits.facts.svg" width="100%" />
+  </div>
+</p>
+<div style="clear: both;"></div>
+
 
 
 <div align="center">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" width="50%">
-  <img src="metrics.plugin.notable.svg" width="50%">
-</div>
 
-<div align="center">
-  <img src="metrics.plugin.habits.facts.svg" width="auto">
   <img src="metrics.plugin.licenses.ratio.svg" width="auto">
 </div>
 
