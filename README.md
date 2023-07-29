@@ -38,8 +38,8 @@
 
 
 <div align="left">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" width="40%">
-  <img src="metrics.plugin.notable.svg" width="30%">
+  <img src="metrics.plugin.isocalendar.fullyear.svg" width="auto">
+  <img src="metrics.plugin.notable.svg" width="auto">
   <img src="metrics.plugin.habits.facts.svg" width="auto">
 </div>
 <div>
