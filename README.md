@@ -43,11 +43,6 @@
   <img src="metrics/metrics.plugin.lines.svg" width="auto">
   <img src="metrics/metrics.plugin.stars.svg" width="auto">
 </p>
-| ![Isocalendar](metrics/metrics.plugin.isocalendar.fullyear.svg) | ![Notable](metrics/metrics.plugin.notable.svg) |
-|:---:|:---:|
-| ![Habits Facts](metrics/metrics.plugin.habits.facts.svg) | ![Licenses Ratio](metrics/metrics.plugin.licenses.ratio.svg) |
-| ![Lines](metrics/metrics.plugin.lines.svg) | ![Stars](metrics/metrics.plugin.stars.svg) |
-
 
 
 
