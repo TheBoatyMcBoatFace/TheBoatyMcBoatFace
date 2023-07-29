@@ -36,10 +36,10 @@
 
 ***
 <p align="left">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" width="50%" />
+  <img src="metrics.plugin.isocalendar.fullyear.svg" width="auto" />
   <p align="right">
-    <img src="metrics.plugin.notable.svg" width="20%" />
-    <img src="metrics.plugin.habits.facts.svg" width="20%">
+    <img src="metrics.plugin.notable.svg" width="auto" />
+    <img src="metrics.plugin.habits.facts.svg" width="auto">
   </p>
 </p>
 <p align="center">
