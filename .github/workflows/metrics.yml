@@ -102,7 +102,7 @@ jobs:
 # Contributions by Category
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/contributors/README.md#plugin_contributors_categories
         name: Contributors by categories
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.contributors.categories.svg
           token: ${{ secrets.METRICS_TOKEN }}
