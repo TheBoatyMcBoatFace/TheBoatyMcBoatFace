@@ -12,14 +12,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/New_York
 
 # https://github.com/theboatymcboatface/metrics/blob/master/source/plugins/topics/README.md
         name: Icons
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.topics.icons.svg
             token: NOT_NEEDED
@@ -30,7 +30,7 @@ jobs:
 
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/isocalendar/README.md
         name: Full-year calendar
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -40,7 +40,7 @@ jobs:
 
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/lines/README.md
         name: Compact display in base plugin
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
 # Starred Topics
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/topics/README.md
         name: Icons
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
@@ -62,7 +62,7 @@ jobs:
 # Recently Starred Repositories
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/stars/README.md
         name: Recently starred
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -73,7 +73,7 @@ jobs:
 # License Info
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/licenses/README.md
         name: Licenses with open-source ratio graphs
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.licenses.ratio.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -124,7 +124,7 @@ jobs:
 # Start Lists
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/starlists/README.md
         name: Featured star list
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.starlists.svg
           token: NOT_NEEDED
@@ -136,7 +136,7 @@ jobs:
 # Notable Contributions
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/notable/README.md
         name: Contributions
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -147,7 +147,7 @@ jobs:
 # Recent Posts
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/posts/README.md
         name: Recent posts with descriptions and cover images
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.posts.full.svg
           token: NOT_NEEDED
