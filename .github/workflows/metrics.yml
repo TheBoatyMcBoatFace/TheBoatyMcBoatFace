@@ -21,7 +21,7 @@ jobs:
         name: Icons
       - uses: lowlighter/metrics@latest
         with:
-            filename: metrics.plugin.topics.icons.svg
+            filename: metrics/metrics.plugin.topics.icons.svg
             token: NOT_NEEDED
             base: ""
             plugin_topics: yes
@@ -42,7 +42,7 @@ jobs:
         name: Compact display in base plugin
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.lines.svg
+          filename: metrics/metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: repositories
           plugin_lines: yes
@@ -52,7 +52,7 @@ jobs:
         name: Icons
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.icons.svg
+          filename: metrics/metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
@@ -75,7 +75,7 @@ jobs:
         name: Licenses with open-source ratio graphs
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.licenses.ratio.svg
+          filename: metrics/metrics.plugin.licenses.ratio.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
@@ -90,7 +90,7 @@ jobs:
         name: Mildly interesting facts
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.facts.svg
+          filename: metrics/metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -104,9 +104,9 @@ jobs:
         name: Contributors by categories
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.contributors.categories.svg
+          filename: metrics/metrics.plugin.contributors.categories.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: "metrics/"
+          base: ""
           template: repository
           repo: metrics
           plugin_contributors: yes
@@ -126,9 +126,9 @@ jobs:
         name: Featured star list
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.starlists.svg
+          filename: metrics/metrics.plugin.starlists.svg
           token: NOT_NEEDED
-          base: "metrics/"
+          base: ""
           plugin_starlists: yes
           plugin_starlists_limit_repositories: 2
           plugin_starlists_only: TC39
@@ -138,7 +138,7 @@ jobs:
         name: Contributions
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.notable.svg
+          filename: metrics/metrics.plugin.notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: "metrics"
           plugin_notable: yes

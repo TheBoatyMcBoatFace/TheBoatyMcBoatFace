@@ -19,9 +19,9 @@
       <img src="https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Bentley Hensel's Spotify Now Playing" width="30%" align="right">
     </a>
     <h1 style="display:inline">The Abouts</h1>
-    <div width=60% align="left">9
-    A tech innovator at heart, my journey resembles that of a mariner in the realm of technology. Steering the digital ship through high tides and tranquil seas, I've excelled in the roles of a technical product manager, operations director, and CEO, amassing a treasure trove of achievements along the way. My love for technology does not confine itself to the professional sphere – in my 375TB homelab, I enjoy crafting innovative tools that bridge the gap between imagination and reality.<br><br>
-    When not immersed in the binary world, you'll often find me exploring the natural one, whether that be sailing the open waters, backpacking through scenic trails, or running through the historic paths of Arlington, VA, my beloved home. No matter the activity, I carry with me the same spirit of adventure and discovery that fuels my professional endeavors. Be it creating purposeful projects or exploring new landscapes, every venture is a chance to make waves and leave a positive imprint.
+    <div width=60% align="left">
+    As a dedicated technology innovator, I've built a career navigating the dynamic tech industry. With roles such as technical product manager, operations director, and CEO under my belt, I've accumulated a wide range of accomplishments. Beyond my professional life, I maintain a passion for technology and enjoy developing inventive solutions in my personal 375TB homelab.<br  />    <br  />
+    In my free time, you'll often find me adventuring outside the digital sphere. I enjoy outdoor activities such as sailing, backpacking, and running, particularly along the historic paths of my hometown, Arlington, VA. Whether I'm embarking on a new project or exploring new landscapes, each venture offers an opportunity for continuous learning and growth.
     <br><br>
     Interested in working together?
     <br>
@@ -36,13 +36,17 @@
 
 ***
 <p align="left">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" width="auto" />
-    <img src="metrics.plugin.notable.svg" width="auto" />
-    <img src="metrics.plugin.habits.facts.svg" width="auto">
-  <img src="metrics.plugin.licenses.ratio.svg" width="auto">
-  <img src="metrics.plugin.lines.svg" width="auto">
-  <img src="metrics.plugin.stars.svg" width="auto">
+  <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" width="auto" />
+    <img src="metrics/metrics.plugin.notable.svg" width="auto" />
+    <img src="metrics/metrics.plugin.habits.facts.svg" width="auto">
+  <img src="metrics/metrics.plugin.licenses.ratio.svg" width="auto">
+  <img src="metrics/metrics.plugin.lines.svg" width="auto">
+  <img src="metrics/metrics.plugin.stars.svg" width="auto">
 </p>
+| ![Isocalendar](metrics/metrics.plugin.isocalendar.fullyear.svg) | ![Notable](metrics/metrics.plugin.notable.svg) |
+|:---:|:---:|
+| ![Habits Facts](metrics/metrics.plugin.habits.facts.svg) | ![Licenses Ratio](metrics/metrics.plugin.licenses.ratio.svg) |
+| ![Lines](metrics/metrics.plugin.lines.svg) | ![Stars](metrics/metrics.plugin.stars.svg) |
 
 
 
