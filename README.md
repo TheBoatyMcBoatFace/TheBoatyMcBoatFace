@@ -4,9 +4,9 @@
 
 # The Abouts
 
-  <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 40%; text-align: left;">
-<div id="social" align="center">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="width: 40%; text-align: left;">
+  <div id="social" align="center">
   <a href="https://www.linkedin.com/in/bfhensel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@bfhensel on LinkedIn"/></a>
   &nbsp; &nbsp; &nbsp;
   <a href="https://bentleyhensel.com?utm_source=github&utm_medium=badge&utm_campaign=profile_ghost" target="_blank"><img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="@BentleyHensel on Ghost"/></a>
@@ -26,13 +26,10 @@
   *Interested in working together?*
   [**BentleyHensel.com/lets-work-togther**](https://bentleyhensel.com/lets-work-together/?utm_source=github&utm_medium=pabout_me&utm_campaign=about_me_link)
   </div>
-  <div style="flex: 40%; text-align: center;">
+  <div style="width: 40%; text-align: center;">
 
   [![spotify-github-profile](https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&redirect=true)
   *Clicking my amazing music opens in Spotify.
   The beltway.cloud is my domain*
   </div>
-  </div>
-
-
-
+</div>
