@@ -143,7 +143,13 @@ jobs:
           base: "metrics/"
           plugin_notable: yes
 
-
-
+# Default Metrics
+# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/base/README.md
+        name: Default metrics
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
 
 
