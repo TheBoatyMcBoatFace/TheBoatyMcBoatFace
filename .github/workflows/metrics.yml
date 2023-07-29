@@ -88,7 +88,7 @@ jobs:
 # Coding Habits
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/habits/README.md
         name: Mildly interesting facts
-      - uses: theboatymcboatface/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
