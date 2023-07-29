@@ -35,13 +35,17 @@
 </div>
 
 ***
+<div style="display: flex; justify-content: center;">
+  <img src="metrics.plugin.isocalendar.fullyear.svg" width="50%" style="margin-right: 10px;">
+  <img src="metrics.plugin.notable.svg" width="50%" style="margin-left: 10px;">
+</div>
 
 
 <div align="center">
   <img src="metrics.plugin.isocalendar.fullyear.svg" width="50%">
   <img src="metrics.plugin.notable.svg" width="50%">
-
 </div>
+
 <div align="center">
   <img src="metrics.plugin.habits.facts.svg" width="auto">
   <img src="metrics.plugin.licenses.ratio.svg" width="auto">
