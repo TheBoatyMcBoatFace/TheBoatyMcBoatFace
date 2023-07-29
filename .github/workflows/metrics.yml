@@ -106,7 +106,7 @@ jobs:
         with:
           filename: metrics.plugin.contributors.categories.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: "metrics/"
           template: repository
           repo: metrics
           plugin_contributors: yes
@@ -128,7 +128,7 @@ jobs:
         with:
           filename: metrics.plugin.starlists.svg
           token: NOT_NEEDED
-          base: ""
+          base: "metrics/"
           plugin_starlists: yes
           plugin_starlists_limit_repositories: 2
           plugin_starlists_only: TC39
@@ -140,22 +140,10 @@ jobs:
         with:
           filename: metrics.plugin.notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: "metrics/"
           plugin_notable: yes
 
 
-# Recent Posts
-# https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/posts/README.md
-        name: Recent posts with descriptions and cover images
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.posts.full.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_posts_limit: 2
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
+
 
 
