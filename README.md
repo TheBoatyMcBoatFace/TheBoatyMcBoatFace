@@ -36,9 +36,11 @@
 
 ***
 <p align="center">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" width="45%" />
-  <img src="metrics.plugin.notable.svg" width="45%" />
-  <img src="metrics.plugin.habits.facts.svg" width="45%">
+  <img src="metrics.plugin.isocalendar.fullyear.svg" width="auto" />
+  <p>
+    <img src="metrics.plugin.notable.svg" width="45%" />
+    <img src="metrics.plugin.habits.facts.svg" width="45%">
+  </p>
 </p>
 
 
