@@ -1,24 +1,37 @@
 <div align="center">
-  <a href="https://github.com/j12y"><img src="./assets/GoldenTroutWilderness.png"/></a>
+  <a href="https://bentleyhensel.com?utm_source=github&utm_medium=banner&utm_campaign=profile_header" target="_blank"><img src="./assets/GoldenTroutWilderness.png"/></a>
 </div>
 
+<div id="social" align="center">
+  <a href="https://www.linkedin.com/in/bfhensel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@bfhensel on LinkedIn"/></a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://bentleyhensel.com?utm_source=github&utm_medium=badge&utm_campaign=profile_ghost" target="_blank"><img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="@BentleyHensel on Ghost"/></a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://www.tiktok.com/@bentleyhensel" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@BentleyHensel on TikTok"/></a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://twitter.com/bfhensel" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="@bfhensel on Twitter"/></a>
+  &nbsp; &nbsp; &nbsp;
+  📫&nbsp;github@bentleyhensel.com&nbsp;&nbsp;&nbsp;
+  </div>
 
-# 💫 About Me:
+
+# About Boaty:
+
+<div style="display: flex; align-items: center;">
+<div style="flex: 1; text-align: left;">
+![Profile Image](./assets/profile.png)
+
+
 
 Technical product cosplaying as an engineer
+</div>
 
-[![spotify-github-profile](https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<div style="flex: 1; text-align: center;">
 
-## 🌐 Socials:
+[![spotify-github-profile](https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&redirect=true)
 
-- 📫 How to reach me: github@bentleyhensel.com
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bfhensel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bentleyhensel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bfhensel)
+*My Beltway Cloud Domain will ask to open Spotify if you click the song.*
+</div>
+</div>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=theboatymcboatface&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theboatymcboatface&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theboatymcboatface&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Repos I'm Working On
 
