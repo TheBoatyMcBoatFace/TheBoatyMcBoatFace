@@ -4,9 +4,9 @@
 
 # The Abouts
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="display: flex; justify-content: space-between;">
   <div style="width: 40%; text-align: left;">
-  <div id="social" align="center">
+<div id="social" align="center">
   <a href="https://www.linkedin.com/in/bfhensel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@bfhensel on LinkedIn"/></a>
   &nbsp; &nbsp; &nbsp;
   <a href="https://bentleyhensel.com?utm_source=github&utm_medium=badge&utm_campaign=profile_ghost" target="_blank"><img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="@BentleyHensel on Ghost"/></a>
@@ -32,4 +32,7 @@
   *Clicking my amazing music opens in Spotify.
   The beltway.cloud is my domain*
   </div>
-</div>
+  </div>
+
+
+
