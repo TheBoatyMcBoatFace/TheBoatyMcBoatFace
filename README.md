@@ -35,11 +35,11 @@
 </div>
 
 ***
-<p align="center">
+<p align="left">
   <img src="metrics.plugin.isocalendar.fullyear.svg" width="50%" />
-  <p>
-    <img src="metrics.plugin.notable.svg" width="45%" /><br  />
-    <img src="metrics.plugin.habits.facts.svg" width="45%">
+  <p align="right">
+    <img src="metrics.plugin.notable.svg" width="20%" />
+    <img src="metrics.plugin.habits.facts.svg" width="20%">
   </p>
 </p>
 <p align="center">
