@@ -140,7 +140,7 @@ jobs:
         with:
           filename: metrics.plugin.notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: "metrics/"
+          base: "metrics"
           plugin_notable: yes
 
 # Default Metrics
@@ -148,7 +148,7 @@ jobs:
         name: Default metrics
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.base.svg
+          filename: metrics/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
 
