@@ -17,16 +17,16 @@
 
 # About Boaty:
 
-<div style="display: flex; align-items: center;">
+<div style="flex: 1; text-align: left; width: 20%;">
 <div style="flex: 1; text-align: left;">
-![Profile Image](./assets/profile.png)
+<a href="https://bentleyhensel.com?utm_source=github&utm_medium=banner&utm_campaign=profile_header" target="_blank"><img src="./assets/profile.png"/></a>
 
 
 
 Technical product cosplaying as an engineer
 </div>
 
-<div style="flex: 1; text-align: center;">
+<div style="flex: 1; text-align: center; width: 80%;">
 
 [![spotify-github-profile](https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&redirect=true)
 
