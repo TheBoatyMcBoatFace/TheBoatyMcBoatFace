@@ -16,9 +16,7 @@
   <div width=85% align="left">
   <p>
       <a href="https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&redirect=true" target="_blank">
-      <div style="padding-top: 50px;">
-        <img src="https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Bentley Hensel's Spotify Now Playing" width="30%" align="right">
-      </div>
+      <img src="https://ghspotify.beltway.cloud/api/view?uid=31rmcreoeeauuxqix4ee3hyxlqkq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Bentley Hensel's Spotify Now Playing" width="30%" align="right">
     </a>
     <h1 style="display:inline">The Abouts</h1>
     <div width=60% align="left">
