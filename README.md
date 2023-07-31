@@ -20,8 +20,8 @@
     </a>
     <h1 style="display:inline">The Abouts</h1>
     <div width=60% align="left">
-    As a dedicated technology innovator, I've built a career navigating the dynamic tech industry. With roles such as technical product manager, operations director, and CEO under my belt, I've accumulated a wide range of accomplishments. Beyond my professional life, I maintain a passion for technology and enjoy developing inventive solutions in my personal 375TB homelab.<br  />    <br  />
-    In my free time, you'll often find me adventuring outside the digital sphere. I enjoy outdoor activities such as sailing, backpacking, and running, particularly along the historic paths of my hometown, Arlington, VA. Whether I'm embarking on a new project or exploring new landscapes, each venture offers an opportunity for continuous learning and growth.
+    As a dedicated technology innovator, I've built a career navigating the dynamic tech industry. With roles such as technical product manager, director of operations, and CEO under my belt, I've accumulated a wide range of accomplishments. Beyond my professional life, I maintain a passion for technology and enjoy developing inventive solutions in my personal 375TB homelab.<br  />    <br  />
+    In my free time, you'll often find me adventuring outside the digital sphere. I enjoy outdoor activities such as sailing, backpacking, and running, particularly along the historic paths of Washington, DC. Whether I'm embarking on a new project or exploring new landscapes, each venture offers an opportunity for continuous learning and growth.
     <br><br>
     Interested in working together?
     <br>
@@ -35,15 +35,18 @@
 </div>
 
 ***
+## Github Stats & Such
 <p align="left">
-  <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" width="auto" />
+    <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" width="auto" />
     <img src="metrics/metrics.plugin.notable.svg" width="auto" />
     <img src="metrics/metrics.plugin.habits.facts.svg" width="auto">
-  <img src="metrics/metrics.plugin.lines.svg" width="auto">
-  <img src="metrics/metrics.plugin.stars.svg" width="auto">
+    <img src="metrics/metrics.plugin.lines.svg" width="auto">
+    <img src="metrics/metrics.plugin.stars.svg" width="auto">
 </p>
 
-
+<br /><br />
+**TODO:** Stop procrastinating on the front-end stuff and make the image layout pretty
+Want to add the Spotify Player to your profile? [The How-To's or use my setup](https://github.com/TheBoatyMcBoatFace/spotify-github-profile)
 
 
 
