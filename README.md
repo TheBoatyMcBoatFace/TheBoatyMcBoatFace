@@ -39,7 +39,6 @@
   <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" width="auto" />
     <img src="metrics/metrics.plugin.notable.svg" width="auto" />
     <img src="metrics/metrics.plugin.habits.facts.svg" width="auto">
-  <img src="metrics/metrics.plugin.licenses.ratio.svg" width="auto">
   <img src="metrics/metrics.plugin.lines.svg" width="auto">
   <img src="metrics/metrics.plugin.stars.svg" width="auto">
 </p>
