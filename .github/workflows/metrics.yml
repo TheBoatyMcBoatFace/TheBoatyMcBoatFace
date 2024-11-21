@@ -127,6 +127,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: "metrics"
           plugin_notable: yes
+          plugin_notable_skipped: |
+            pulsarr-app
+            DemoMcDemoFace
+            TorrisDigital
+            BeltwayARC
 
 # Default Metrics
 # https://github.com/TheBoatyMcBoatFace/metrics/blob/main/source/plugins/base/README.md

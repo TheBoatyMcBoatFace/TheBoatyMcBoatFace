@@ -20,13 +20,12 @@
     </a>
     <h1 style="display:inline">The Abouts</h1>
     <div width=60% align="left">
-    As a dedicated technology innovator, I've built a career navigating the dynamic tech industry. With roles such as technical product manager, director of operations, and CEO under my belt, I've accumulated a wide range of accomplishments. Beyond my professional life, I maintain a passion for technology and enjoy developing inventive solutions in my personal 375TB homelab.<br  />    <br  />
-    In my free time, you'll often find me adventuring outside the digital sphere. I enjoy outdoor activities such as sailing, backpacking, and running, particularly along the historic paths of Washington, DC. Whether I'm embarking on a new project or exploring new landscapes, each venture offers an opportunity for continuous learning and growth.
-    <br><br>
-    Interested in working together?
-    <br>
+    Hi, I’m Bentley—a builder, problem-solver, and lifelong learner passionate about creating meaningful change. Whether it’s designing solutions for real-world problems, running for Congress, or exploring America’s most breathtaking landscapes, I’ve always embraced challenges with curiosity and determination.<br><br>
+    Professionally, I’ve navigated diverse paths, from working in tech as a product manager and CEO to pursuing public service. I’m proud of the systems I’ve built, including being the first congressional candidate to report campaign finances instantly and creating the first AI political debate. I believe transparency, leadership, and innovative thinking can reshape our future.<br><br>
+    When I’m not working, I’m usually diving into personal projects, like optimizing my <strike>375</strike> 525 TB homelab. or crafting tools to make complex tasks simpler. Outdoors, you’ll find me backpacking in the middle of nowhere, sailing the east coast, or running through the streets of Washington, DC.<br><br>
+    I’m all about tackling big ideas and making a real difference—whether through collaboration, technology, or new ventures. Let’s create something extraordinary together.<br><br>
     <a href="https://bentleyhensel.com/lets-work-together/?utm_source=github&utm_medium=pabout_me&utm_campaign=about_me_link" target="_blank">
-    BentleyHensel.com/lets-work-togther
+   👉  BentleyHensel.com/lets-work-togther
     </a>
     <br>
   </div>
