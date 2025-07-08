@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>postgres/postgres</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containrrr/watchtower</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A process for automating Docker container base image updates.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>greatscottgadgets/facedancer</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET</div>
